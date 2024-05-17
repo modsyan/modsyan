@@ -1,14 +1,23 @@
 <h2 align="center"> Hi there 👋 This is Muhammad Hamdy </h2>
 
-<h3 align="center">  
+<h3 align="left">  
     A passionate Junior Backend Software Engineer from Egypt.
 </h3>
+
+
+
+![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modsyan&hide=jupyter%20Notebook,html&theme=radical&layout=compact)
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=modsyan&show_icons=true&locale=en" alt="modsyan" /></p> -->
+
+---
+
 
 <div align="center">
     <a href="https://www.linkedin.com/in/modsyan/" target="blank">
         <img 
             src="https://img.shields.io/badge/follow-modsyan-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"
-            alt="linkedin logo follow me" 
+            alt="linkedin_logo_follow_me" 
         />
     </a>
     <a href="https://twitter.com/HamdyCL" target="blank">
@@ -18,13 +27,3 @@
         />
     </a>
 </div>
-
-
-<dev align="center">
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=modsyan&hide=jupyter%20Notebook,html&theme=radical layout=compact" 
-        alt="Most langauge use"
-    />
-</div>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=modsyan&show_icons=true&locale=en" alt="modsyan" /></p> -->
