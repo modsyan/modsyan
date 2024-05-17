@@ -14,7 +14,7 @@ A passionate Junior Backend Software Engineer from Egypt.
 - ⚡ Fun fact: ... -->
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/modsyan/">
+    <a href="https://www.linkedin.com/in/modsyan/" target="blank">
         <img 
             src="https://img.shields.io/badge/follow-modsyan-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"
             alt="linkedin_logo_follow_me" 
@@ -29,4 +29,4 @@ A passionate Junior Backend Software Engineer from Egypt.
 </div>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=modsyan&show_icons=true&locale=en" alt="modsyan" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=modsyan&show_icons=true&locale=en" alt="modsyan" /></p> -->
