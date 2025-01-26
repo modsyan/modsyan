@@ -3,7 +3,7 @@
 <div align="center">
 
 <h3>  
-    A passionate Junior Backend Software Engineer
+    A passionate Backend Software Engineer
 </h3>
 
 
